@@ -1,6 +1,12 @@
-# mean_starter
-Files for building mean app preloaded with bootstrap
+# mean-starter
+Files for building mean app preloaded with bootstrap 3.3.6
 
-1. Clone and run npm install
+### 1. Install Dependencies
+```
+npm install
+```
 
-2. Run with nodemon
+###2. Run app
+```
+nodemon
+```
